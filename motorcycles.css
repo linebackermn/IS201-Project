@@ -1,0 +1,87 @@
+/* CSS Document */
+
+body {
+    margin: auto;
+    font-family: system-ui;
+    background-color: grey;
+    background-image: url(rugged_coastline_black_and_white-wallpaper-2560x1440.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+h1 {
+    text-align: center;
+    margin-bottom: .5em;
+    margin-top: 3.5em;
+    color:lightgray;
+    font-size: 2em;
+    font-weight: bold;
+}
+
+h2 {
+    display: block;
+    margin-bottom: .5em;
+    margin-top: 3.5em;
+    margin-left: auto;
+    margin-right: auto;
+    color:lightgray;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: black;
+    opacity: .6;
+    width: 50%;
+    text-align: center;
+}
+
+h3 {
+    display: block;
+    margin-bottom: .5em;
+    margin-left: auto;
+    margin-right: auto;
+    color:lightgray;
+    font-size: 1.5em;
+    font-weight: bold;
+    background-color: black;
+    width: 50%;
+    text-align: center;
+}
+
+.back2top {
+    margin-bottom: .5em;
+    margin-top: 3.5em;
+    text-align: center;
+}
+
+.newbike {
+    display: block;
+    background-color: gainsboro;
+    margin-top: .5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+    opacity: .6;
+}
+
+.interactive {
+    display: block;
+    background-color: gainsboro;
+    margin-top: .5em;
+    margin-left: auto;
+    margin-right: auto;
+    align-content: center;
+    text-align: center;
+    opacity: .8;
+}
+
+.ranking {
+    display: block;
+    background-color: gainsboro;
+    margin-top: 3.5em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align-content: center;
+    opacity: .7;
+}
